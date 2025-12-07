@@ -1,4 +1,4 @@
-# Hi, I'm Akanksha 
+# Hello, I'm Akanksha 
 
 I'm an MBA Finance student passionate about financial analysis, markets,  
 and building analytical tools using Python & Excel.
@@ -10,7 +10,10 @@ and building analytical tools using Python & Excel.
 - Excel dashboards & reporting
 
 ###  Featured Projects  
-(Adding soon)
+### 1) Tableau Financial Performance Dashboard
+- **GitHub Repository:** https://github.com/akanksha-giri/tableau-finance-dashboard
+- **Live Dashboard (Tableau Public):** https://public.tableau.com/app/profile/akanksha.giri/viz/Financeperformancedashboard/Financialperformancedashboard
+
 
 ---
 ###  My Current Focus  
