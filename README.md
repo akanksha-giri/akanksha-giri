@@ -14,7 +14,7 @@ and building analytical tools using Python & Excel.
 
 ---
 ### 🎯 My Current Focus  
-Preparing for a Financial Analyst role at Google & top finance firms.
+Preparing for a Financial Analyst role in top finance firms.
 
 📫 Email: akankshagiri051@gmail.com  
 🌐 Portfolio: coming soon
