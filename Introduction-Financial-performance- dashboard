@@ -16,7 +16,7 @@ Segment, Country, Product, Discount Band, Units Sold, Manufacturing Price, Sale 
 COGS, Profit, and various Date attributes. These fields allow for multi-dimensional financial analysis across geography, product categories, and time periods.
 
 Dashboard Preview:
-![Dashboard Overview]
+![Dashboard Overview]Dashboard.png.JPG
 Key Metrics:
 The dashboard highlights the following financial metrics:
 Sales: Total revenue generated from sales.
