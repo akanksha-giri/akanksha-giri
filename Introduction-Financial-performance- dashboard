@@ -8,12 +8,14 @@ Profit Margin to provide insights into the financial performance of a business a
 Introduction:
 The Financial Performance Dashboard is designed to offer a comprehensive view of financial performance. 
 By visualizing key financial metrics, stakeholders can quickly assess profitability, compare regions, understand product performance, 
-and identify patterns in sales, discounts, and costs over time. The dashboard helps reveal trends in revenue, highlight areas of strength, and identify opportunities for improvement.
+and identify patterns in sales, discounts, and costs over time. 
+The dashboard helps reveal trends in revenue, highlight areas of strength, and identify opportunities for improvement.
 
 Data Sources:
 The dashboard uses a structured financial dataset containing fields such as
-Segment, Country, Product, Discount Band, Units Sold, Manufacturing Price, Sale Price, Gross Sales, Discounts, Sales,
-COGS, Profit, and various Date attributes. These fields allow for multi-dimensional financial analysis across geography, product categories, and time periods.
+Segment, Country, Product, Discount Band, Units Sold, Manufacturing Price, Sale Price,
+Gross Sales, Discounts, Sales,COGS, Profit, and various Date attributes. 
+These fields allow for multi-dimensional financial analysis across geography, product categories, and time periods.
 
 Key Metrics:
 The dashboard highlights the following financial metrics:
