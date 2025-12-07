@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Akanksha 👋  
 
-<!--
-**akanksha-giri/akanksha-giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MBA Finance student passionate about financial analysis, markets,  
+and building analytical tools using Python & Excel.
 
-Here are some ideas to get you started:
+### 🔍 What I Do
+- Financial Modeling (DCF, WACC, Ratio Analysis)
+- Corporate Finance & Working Capital Projects  
+- Python for Finance (automation, data analysis)
+- Excel dashboards & reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects  
+(Adding soon)
+
+---
+### 🎯 My Current Focus  
+Preparing for a Financial Analyst role at Google & top finance firms.
+
+📫 Email: akankshagiri051@gmail.com  
+🌐 Portfolio: coming soon
+
