@@ -20,5 +20,5 @@ and building analytical tools using Python & Excel.
 Preparing for a Financial Analyst role in top finance firms.
 
  Email: akankshagiri051@gmail.com  
- Portfolio: https://www.notion.so/Akanksha-Giri-Portfolio-2c200ad905328032a151d062729d25d2?source=copy_link
+ Portfolio: https://www.notion.so/Akanksha-Giri-Portfolio-2c200ad905328032a151d062729d25d2
 
