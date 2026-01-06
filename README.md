@@ -4,7 +4,7 @@ I'm an MBA Finance student passionate about financial analysis, markets,
 and building analytical tools using Python & Excel.
 
 ###  What I Do
-- Financial Modeling (DCF, WACC, Ratio Analysis)
+- Financial Modeling
 - Corporate Finance & Working Capital Projects  
 - Python for Finance (automation, data analysis)
 - Excel dashboards & reporting
