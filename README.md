@@ -5,7 +5,7 @@ and building analytical tools using Python & Excel.
 
 ###  What I Do
 - Financial Modeling
-- Corporate Finance & Working Capital Projects  
+- Corporate Finance & Working Capital Projects ( coming soon)  
 - Python for Finance (automation, data analysis)
 - Excel dashboards & reporting
 ---
