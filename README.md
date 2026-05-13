@@ -12,6 +12,5 @@ and building analytical tools using Python & Excel.
 ###  My Current Focus  
 Preparing for a Financial Analyst role in top finance firms.
 
- Email: akankshagiri051@gmail.com  
- Portfolio: https://www.notion.so/Akanksha-Giri-Portfolio-2c200ad905328032a151d062729d25d2
+ Email: akankshagiri051@gmail.com
 
