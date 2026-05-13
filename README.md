@@ -1,16 +1,25 @@
-# Hello, I'm Akanksha 
+# Hi, I'm Akanksha
 
-I'm an MBA Finance student passionate about financial analysis, markets,  
-and building analytical tools using Python & Excel.
+MBA Finance graduate passionate about financial analysis, FP&A, 
+and building analytical tools using Excel and Python.
 
-###  What I Do
-- Financial Modeling
-- Corporate Finance & Working Capital Projects ( coming soon)  
-- Python for Finance (automation, data analysis)
-- Excel dashboards & reporting
+### What I Do
+- Financial Modeling & Forecasting
+- FP&A — Budgeting, Variance Analysis, P&L Management
+- Data Visualization — Power BI, Tableau, Excel Dashboards
+- Python for Finance — automation and data analysis
+
 ---
-###  My Current Focus  
-Preparing for a Financial Analyst role in top finance firms.
 
- Email: akankshagiri051@gmail.com
+### Current Projects
+- Google Cloud Segment Analysis — FP&A model & scenario analysis
+- Tata Steel Financial Model — assumptions-driven P&L with sensitivity analysis
+
+---
+
+### Target Role
+Product Finance / FP&A Analyst at a high-growth tech or consulting firm.
+
+Email: akankshagiri051@gmail.com  
+LinkedIn: linkedin.com/in/akanksha-giri-542414343
 
