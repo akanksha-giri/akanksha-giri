@@ -16,10 +16,6 @@ and building analytical tools using Excel and Python.
 - Tata Steel Financial Model — assumptions-driven P&L with sensitivity analysis
 
 ---
-
-### Target Role
-Product Finance / FP&A Analyst at a high-growth tech or consulting firm.
-
 Email: akankshagiri051@gmail.com  
 LinkedIn: linkedin.com/in/akanksha-giri-542414343
 
