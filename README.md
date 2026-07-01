@@ -13,4 +13,3 @@ and building analytical tools using Excel and Python.
 Email: akankshagiri051@gmail.com  
 LinkedIn: linkedin.com/in/akanksha-giri-542414343
 Portfolio: https://poetic-naiad-8ce21c.netlify.app/
-
