@@ -10,12 +10,7 @@ and building analytical tools using Excel and Python.
 - Python for Finance — automation and data analysis
 
 ---
-
-### Current Projects
-- Google Cloud Segment Analysis — FP&A model & scenario analysis
-- Tata Steel Financial Model — assumptions-driven P&L with sensitivity analysis
-
----
 Email: akankshagiri051@gmail.com  
 LinkedIn: linkedin.com/in/akanksha-giri-542414343
+Portfolio: https://poetic-naiad-8ce21c.netlify.app/
 
